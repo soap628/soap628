@@ -65,5 +65,5 @@ When I'm not doing research, I explore the digital frontier:
 
 ### 📅 Coding Frequency
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINNTWANG&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soap628&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
 </div>
