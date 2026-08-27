@@ -17,7 +17,12 @@
 
 ### 🧬 The Hybrid Researcher: Wet & Dry
 
-I define myself as a **full-stack Life Science Student**, capable of generating data at the bench and decoding it at the terminal.
+I'm a wet-lab and dry-lab hybrid: experienced across most core experimental techniques — animal surgery, gene editing, protein purification, iPSC culture, and organoid models — and equally comfortable processing and analyzing large datasets. Beyond the bench, I build software, games, and websites, and do hardware programming. I also have hands-on experience in the Web3 industry and esports events.
+
+In short, I can take a project from idea to delivery independently.
+
+I currently work as a creator and coder, and I'm actively open to new opportunities, in China or abroad, in fertility preservation (egg freezing), medical aesthetics, or mRNA vaccines. Willing to travel. Interested? Reach me at soap628@proton.me.
+
 
 | **🧪 Wet Lab Arsenal** (Experimental) | **💻 Dry Lab & Dev** (Computational) |
 | :--- | :--- |
