@@ -43,16 +43,18 @@ I build tools to solve problems, from academic research to family connection.
 | :--- | :--- | :--- | :--- |
 | **🐹 Hyrax** | `Browser Ext` | **Open Source** 🔓 | A PubMed companion extension for instant article metadata & impact factor visualization. |
 | **🌌 Orion** | `iOS App` | **Live** ✅ | An ADHD-friendly companion app for focus & task management. |
-| **🐱 PrimerCat** | `Tool`| **Open Source** 🔓| A reliable tool to design qPCR primers and find the gRNA in CRISPR designing. |
+| **🐭 Mice** | `iOS App` | **Live** ✅ | An IOS App, for researchers, labs, who fed animal, to manage the mice well. |
+| **👦 IEP parents binder** | `iOS App` | **Live** ✅ | An app for parents of IEP children to record meetings and track their child's progress. |
+| **🐱 PrimerCat** | `Tool`| **Open Source** 🔓| A reliable tool to design qPCR primers and find the gRNA in CRISPR designing. (primercat.tech, coming soon) |
 | **🏠 FamilyMemory** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
 | **🌍 OffshoreHub** | `Tool` | **Open Source** 🔓 | Offshore company registration comparison — 12 jurisdictions, intelligent quiz, 5-year cost calculator & agent directory. |
-| **🕋 HajjPlanner** | `Tool` | **Open Source** 🔓 | Hajj & Umrah pilgrimage planner — countdown timer, cost estimator, packing checklist & agency directory. |
-| **🛂 RunAustralia** | `Tool` | **Open Source** 🔓 | To support the country of dragon people running Australia Canada and USA — scoring system, document preparation & exportable reports. |
-| 🎬 CreatorHub | `Tool` | **Open Source** 🔓 | Content creator toolkit — dashboard, platform comparison & monetization calculator. |
+| **🕋 HajjPlanner** | `Tool` | **Live** ✅ | Hajj & Umrah pilgrimage planner — countdown timer, cost estimator, packing checklist & agency directory. |
+| **🛂 RunAustralia** | `Tool` | **Live** ✅  | To support the country of dragon people running Australia Canada and USA — scoring system, document preparation & exportable reports. |
+| **🎬 CreatorHub | `Tool` | **Open Source** 🔓 | Content creator toolkit — dashboard, platform comparison & monetization calculator. |
 | **🏥 FertilityHub** | `Tool` | **Open Source** 🔓 | Fertility clinic comparison — clinic search & favorites, cost analysis & policy highlights. |
 | **💰 FundCalc** | `Tool` | **Open Source** 🔓 | Budget & fund calculator — yearly breakdown, chart visualization & report generation. |
 | **👶 SurrogacyHub** | `Tool` | **Open Source** 🔓 | Surrogacy information hub — country comparison, favorites & agency directory. |
-| **🍺 AfterSip** | `iOS App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
+| **🍺 AfterSip** | `iOS App` | **Live** ✅ | A Bio-hacking tool for personal health data quantification. |
 | **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **Multi-omics** (ChIP/ATAC etc) data. |
 | **🔫 Ruin Reapers** | `Game` | *In Dev* 🎮 | indie FPS game, aiming for a **Steam** release. |
 | **📒 Liqunn** | `Tool` | **Open Source** 🔓 | A comprehensive research & project manage and recording system. |
