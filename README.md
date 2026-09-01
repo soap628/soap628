@@ -1,4 +1,4 @@
-# Hi, I'm Zihao Wang (Soap) 👋
+# Hi, I'm Soap 👋
 
 **Computational biologist & product builder bridging wet-lab research, bioinformatics, and software engineering.**
 
@@ -11,6 +11,7 @@ I build reproducible research tools and practical products—from molecular-biol
 | Project | What it does | Stack / focus |
 | :--- | :--- | :--- |
 | [**PrimerCat**](https://github.com/soap628/primercat) · [Live](https://primercat.tech) | Auditable qPCR primer design, CRISPR gRNA design, sequence search, and molecular-biology utilities. | FastAPI, Next.js, PostgreSQL, Docker |
+| [**Orion**](https://testflight.apple.com/join/t6Bjt3nd) | A low-pressure iOS companion for people with ADHD and AuDHD, combining Brain Dump, focus support, emotional check-ins, personal finance, and gentler restarts. | React Native, offline-first, ADHD-friendly UX |
 | [**CHD Gene Variant & HPO Explorer**](https://github.com/soap628/CHDB) | Interactive exploration of ClinVar variants and HPO phenotypes across the CHD1–CHD9 gene family. | Python, Streamlit, clinical genomics |
 | [**Hyrax**](https://github.com/soap628/hyrax) | A PubMed browser companion for journal metrics, risk signals, filtering, quick abstracts, and PMID export. | JavaScript, Vite, Chrome MV3 |
 | [**MED12 Variant Analysis**](https://github.com/soap628/MED12-) | An integrated analysis workflow combining AlphaMissense, AlphaFold, ClinVar, and multi-omics evidence. | Python, bioinformatics, visualization |
