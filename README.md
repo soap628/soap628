@@ -1,76 +1,40 @@
-### Hi there, I'm Soap 👋
+# Hi, I'm Zihao Wang (Soap) 👋
 
-<div align="center">
-  
-  **Former Ph.D.** | **Indie Company Builder** | **Indie Developer**
-  
-  <a href="mailto:soap628@proton.me">
-    <img src="https://img.shields.io/badge/Email-soap628%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email" />
-  </a>
-  <a href="https://soap628.com">
-    <img src="https://img.shields.io/badge/Website-soap628.com-lightgrey?style=flat-square&logo=google-chrome" alt="Website" />
-  </a>
-  
-</div>
+**Computational biologist & product builder bridging wet-lab research, bioinformatics, and software engineering.**
 
----
+I build reproducible research tools and practical products—from molecular-biology workflows and clinical-variant exploration to scientific software and user-facing applications.
 
-### 🧬 The Hybrid Researcher: Wet & Dry
+[Website](https://soap628.com) · [Email](mailto:soap628@proton.me) · [PrimerCat](https://primercat.tech)
 
-I'm a wet-lab and dry-lab hybrid: experienced across most core experimental techniques — animal surgery, gene editing, protein purification, iPSC culture, and organoid models — and equally comfortable processing and analyzing large datasets. Beyond the bench, I build software, games, and websites, and do hardware programming. I also have hands-on experience in the Web3 industry and esports events.
+## Featured work
 
-In short, I can take a project from idea to delivery independently.
+| Project | What it does | Stack / focus |
+| :--- | :--- | :--- |
+| [**PrimerCat**](https://github.com/soap628/primercat) · [Live](https://primercat.tech) | Auditable qPCR primer design, CRISPR gRNA design, sequence search, and molecular-biology utilities. | FastAPI, Next.js, PostgreSQL, Docker |
+| [**CHD Gene Variant & HPO Explorer**](https://github.com/soap628/CHDB) | Interactive exploration of ClinVar variants and HPO phenotypes across the CHD1–CHD9 gene family. | Python, Streamlit, clinical genomics |
+| [**Hyrax**](https://github.com/soap628/hyrax) | A PubMed browser companion for journal metrics, risk signals, filtering, quick abstracts, and PMID export. | JavaScript, Vite, Chrome MV3 |
+| [**MED12 Variant Analysis**](https://github.com/soap628/MED12-) | An integrated analysis workflow combining AlphaMissense, AlphaFold, ClinVar, and multi-omics evidence. | Python, bioinformatics, visualization |
+| [**FamilyMemory**](https://github.com/soap628/familyminiprogram) | A private family and community WeChat Mini Program with feeds, groups, verification, moderation, and cloud functions. | JavaScript, WeChat Cloud Development |
+| [**Liquun**](https://github.com/soap628/liquun) | A local-first research workspace for projects, experiments, literature, schedules, and scientific records. | Next.js, TypeScript, SQLite |
 
-I currently work as a creator and coder, and I'm actively open to new opportunities, in China or abroad, in fertility preservation (egg freezing), medical aesthetics, or mRNA vaccines. Willing to travel. Interested? Reach me at soap628@proton.me.
+## What I work on
 
+- **Translational research & bioinformatics:** RNA-seq and ChIP-seq workflows, multi-omics integration, clinical variants, and scientific visualization.
+- **Research software:** reproducible analysis pipelines, laboratory utilities, literature tools, and local-first knowledge systems.
+- **Product engineering:** full-stack web applications, browser extensions, iOS development, WeChat Mini Programs, and AI-assisted workflows.
 
-| **🧪 Wet Lab Arsenal** (Experimental) | **💻 Dry Lab & Dev** (Computational) |
+## Wet lab + computational toolkit
+
+| Experimental | Computational |
 | :--- | :--- |
-| **Molecular:** ChIP, Co-IP, WB, qPCR, IF，Molecular Cloning | **Languages:** Python, R, Shell, Swift, C# |
-| **Cellular:** Confocal Microscopy, Stem Cell Differentiation | **Bioinformatics:** RNA-seq/ChIP-seq Pipelines, Multi-omics Integration |
-| **In Vivo:** Stereotactic Injection, Animal Behavior, Disease Models | **AI & Dev:** LLM Agents (Grok/Claude), App Development, Web3 |
+| Molecular cloning, ChIP, Co-IP, western blot, qPCR, and immunofluorescence | Python, R, Shell, TypeScript/JavaScript, Swift, and C# |
+| Confocal microscopy, stem-cell differentiation, iPSC culture, and organoid models | RNA-seq/ChIP-seq pipelines, multi-omics integration, data visualization, and LLM applications |
+| Stereotactic injection, animal behavior, disease models, and protein purification | FastAPI, Next.js, Streamlit, PostgreSQL/SQLite, Docker, and cloud development |
 
-> *"From pipetting to prompt engineering, I build tools to accelerate discovery."*
+## Current direction
 
----
+I'm open to research, product, and software collaborations in reproductive medicine, medical aesthetics, mRNA therapeutics, and adjacent fields—both in China and internationally.
 
+> From pipetting to production software, I build tools that make scientific work clearer, faster, and more reproducible.
 
-### 🚀 Indie Projects & Products
-
-I build tools to solve problems, from academic research to family connection.
-
-| Project | Type | Status | Description |
-| :--- | :--- | :--- | :--- |
-| **🐹 Hyrax** | `Browser Ext` | **Open Source** 🔓 | A PubMed companion extension for instant article metadata & impact factor visualization. |
-| **🌌 Orion** | `iOS App` | **Live** ✅ | An ADHD-friendly companion app for focus & task management. |
-| **🐭 Mice** | `iOS App` | **Live** ✅ | An IOS App, for researchers, labs, who fed animal, to manage the mice well. |
-| **👦 IEP parents binder** | `iOS App` | **Live** ✅ | An app for parents of IEP children to record meetings and track their child's progress. |
-| **🐱 PrimerCat** | `Tool`| **Open Source** 🔓| A reliable tool to design qPCR primers and find the gRNA in CRISPR designing. (primercat.tech, coming soon) |
-| **🏠 FamilyMemory** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
-| **🌍 OffshoreHub** | `Tool` | **Open Source** 🔓 | Offshore company registration comparison — 12 jurisdictions, intelligent quiz, 5-year cost calculator & agent directory. |
-| **🕋 HajjPlanner** | `Tool` | **Live** ✅ | Hajj & Umrah pilgrimage planner — countdown timer, cost estimator, packing checklist & agency directory. |
-| **🛂 RunAustralia** | `Tool` | **Live** ✅  | To support the country of dragon people running Australia Canada and USA — scoring system, document preparation & exportable reports. |
-| **🎬 CreatorHub | `Tool` | **Open Source** 🔓 | Content creator toolkit — dashboard, platform comparison & monetization calculator. |
-| **🏥 FertilityHub** | `Tool` | **Open Source** 🔓 | Fertility clinic comparison — clinic search & favorites, cost analysis & policy highlights. |
-| **💰 FundCalc** | `Tool` | **Open Source** 🔓 | Budget & fund calculator — yearly breakdown, chart visualization & report generation. |
-| **👶 SurrogacyHub** | `Tool` | **Open Source** 🔓 | Surrogacy information hub — country comparison, favorites & agency directory. |
-| **🍺 AfterSip** | `iOS App` | **Live** ✅ | A Bio-hacking tool for personal health data quantification. |
-| **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **Multi-omics** (ChIP/ATAC etc) data. |
-| **🔫 Ruin Reapers** | `Game` | *In Dev* 🎮 | indie FPS game, aiming for a **Steam** release. |
-| **📒 Liqunn** | `Tool` | **Open Source** 🔓 | A comprehensive research & project manage and recording system. |
----
-
-### 🎯 Beyond the Lab: Creator Mode
-
-When I'm not doing research, I explore the digital frontier:
-
-* **🎬 Content Creation:** Documenting my journey to become a **YouTuber**.
-* **💎 Web3 & Marketing:** Exploring decentralized markets and learning **Personal & Product Marketing**.
-* **🕹️ Game Design:** Passionate about FPS mechanics; building my first shooter on Steam.
-
----
-
-### 📅 Coding Frequency
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soap628&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+**Contact:** [soap628@proton.me](mailto:soap628@proton.me)
