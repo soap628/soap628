@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="32" viewBox="0 0 96 32" role="img" aria-label="App Store">
+  <title>App Store</title>
+  <rect x="0.5" y="0.5" width="95" height="31" rx="6" fill="#21262d" stroke="#3d444d"/>
+  <text x="48" y="21" text-anchor="middle" fill="#f0f3f6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="14" font-weight="500">App Store</text>
+</svg>
