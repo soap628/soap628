@@ -1,120 +1,138 @@
 <p align="right"><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
-# 你好，我是 Soap。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/soap-masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/soap-masthead-light.svg">
+  <img alt="Soap — 从实验室走进日常生活" src="./assets/soap-masthead-light.svg" width="1000">
+</picture>
 
 **科研背景的独立开发者。**
 
-**生物化学与分子生物学硕士（MS）** · **曾就读博士，未完成博士学位**<br>
-**QS Top 20 高校背景**
+**生物化学与分子生物学硕士（MS）** · **博士阶段科研经历**<br>
+<sub>学术背景 · QS Top 20 高校</sub>
 
-从湿实验到软件开发，我把科研与日常生活中的问题做成工具：Apple App、科研平台、浏览器扩展，以及一些解决具体问题的小项目。
+把科研与日常生活中的问题，做成真正用得上的 App、科研工具与小软件。
 
-[个人网站](https://soap628.com) · [Apple App 目录](https://apps.apple.com/cn/developer/id1867409591) · [联系我](mailto:soap628@proton.me)
+**[个人网站 ↗](https://soap628.com)** &nbsp; · &nbsp; **[App Store ↗](https://apps.apple.com/cn/developer/id1867409591)** &nbsp; · &nbsp; **[联系我 ↗](mailto:soap628@proton.me)**
 
 [Apple App](#apple-app) / [科研工具](#科研工具) / [浏览器扩展](#浏览器扩展) / [更多 iOS 项目](#更多-ios--swiftui-项目) / [其他作品](#其他作品)
 
 ## Apple App
 
-已经发布的作品，服务于实验室、个人管理与日常生活。以下链接前往中国区 App Store；不同地区的可用情况可能不同。
+为实验室里的工作，也为实验室外的生活。以下作品均已在 App Store 发布。
+
+### 科研实验室
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6757695876"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/a1/5d/c9a15dbc-e54c-fbca-868e-e378d142381a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="64" height="64" alt="Orion 应用图标"></a>
-<h3>Orion</h3>
-<p><sub>iOS · Apple Watch</sub></p>
-<p>面向 ADHD 用户的温和伙伴，接住想法、拆解任务，帮助迈出下一小步。</p>
-<a href="https://apps.apple.com/cn/app/id6757695876">前往 App Store ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6811863083"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ed/aa/dcedaa36-1b47-4518-8500-74f8337de3c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="Harrier 应用图标"></a>
-<h3>Harrier</h3>
-<p><sub>iOS · 基因背景调查</sub></p>
+<a href="https://apps.apple.com/cn/app/id6811863083"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ed/aa/dcedaa36-1b47-4518-8500-74f8337de3c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="Harrier 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6811863083">Harrier</a></strong><br>
+<sub>iOS · 基因背景调查</sub></p>
 <p>围绕人类与小鼠基因，连接公开证据、相关文献与研究笔记。</p>
-<a href="https://apps.apple.com/cn/app/id6811863083">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6811863083">App Store ↗</a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6790659905"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/5d/a8/995da861-1dd4-3fc3-6ed3-cdee72d25dca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="Mice 应用图标"></a>
-<h3>Mice</h3>
-<p><sub>iOS · 实验动物管理</sub></p>
+<a href="https://apps.apple.com/cn/app/id6790659905"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/5d/a8/995da861-1dd4-3fc3-6ed3-cdee72d25dca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="Mice 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6790659905">Mice</a></strong><br>
+<sub>iOS · 实验动物管理</sub></p>
 <p>本地优先管理动物档案、笼位、繁育、实验与待办事项。</p>
-<a href="https://apps.apple.com/cn/app/id6790659905">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6790659905">App Store ↗</a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6763167152"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/43/3c/04433c11-4b9d-6129-96f2-d5c2d52080a6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="LabSlate 应用图标"></a>
-<h3>LabSlate</h3>
-<p><sub>iOS · 实验台计算助手</sub></p>
+<a href="https://apps.apple.com/cn/app/id6763167152"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/43/3c/04433c11-4b9d-6129-96f2-d5c2d52080a6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="LabSlate 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6763167152">LabSlate</a></strong><br>
+<sub>iOS · 实验台计算助手</sub></p>
 <p>涵盖分子量、配液、稀释与实验准备流程，把常用计算放在手边。</p>
-<a href="https://apps.apple.com/cn/app/id6763167152">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6763167152">App Store ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/cn/app/id6762235259"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/a5/6b/51a56b6d-6c07-5565-001e-96f633b29687/icon.png/512x512bb.png" width="48" height="48" alt="Liquun 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6762235259">Liquun</a></strong><br>
+<sub>macOS · 个人科研笔记本</sub></p>
+<p>连接课题、实验、原始证据、文献与任务的本地优先科研工作台。</p>
+<a href="https://apps.apple.com/cn/app/id6762235259">App Store ↗</a>
 </td>
 </tr>
+</table>
+
+### 专注与家庭
+
+<table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6790718756"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/68/ce/4868cee4-1655-1f5f-6e7a-8a60ad4485b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="IEP Parent Binder 应用图标"></a>
-<h3>IEP Parent Binder</h3>
-<p><sub>iOS · 家庭教育记录</sub></p>
+<a href="https://apps.apple.com/cn/app/id6757695876"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/a1/5d/c9a15dbc-e54c-fbca-868e-e378d142381a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="48" height="48" alt="Orion 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6757695876">Orion</a></strong><br>
+<sub>iOS · Apple Watch</sub></p>
+<p>面向 ADHD 用户的温和伙伴，接住想法、拆解任务，帮助迈出下一小步。</p>
+<a href="https://apps.apple.com/cn/app/id6757695876">App Store ↗</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://apps.apple.com/cn/app/id6790718756"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/68/ce/4868cee4-1655-1f5f-6e7a-8a60ad4485b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="IEP Parent Binder 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6790718756">IEP Parent Binder</a></strong><br>
+<sub>iOS · 家庭教育记录</sub></p>
 <p>帮助家长整理个别化教育计划的会议、目标、服务记录与跟进事项。</p>
-<a href="https://apps.apple.com/cn/app/id6790718756">前往 App Store ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6762067917"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/2d/34/b92d342f-b5d9-cf2f-c2c9-4fdceeffc577/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="润澳应用图标"></a>
-<h3>润澳</h3>
-<p><sub>iOS · 澳洲移民路径导航</sub></p>
-<p>面向中文用户，整理澳洲移民路径信息与准备规划。</p>
-<a href="https://apps.apple.com/cn/app/id6762067917">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6790718756">App Store ↗</a>
 </td>
 </tr>
+</table>
+
+### 生活与规划
+
+<table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6760985455"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/25/a0/8225a0a1-1739-3f35-e10a-71f69e7b5a9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="MinaWay 应用图标"></a>
-<h3>MinaWay</h3>
-<p><sub>iOS · 朝觐规划助手</sub></p>
-<p>整合预算估算、准备清单、指南与提醒，让出发前的准备更有条理。</p>
-<a href="https://apps.apple.com/cn/app/id6760985455">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6762067917"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/2d/34/b92d342f-b5d9-cf2f-c2c9-4fdceeffc577/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="润澳应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6762067917">润澳</a></strong><br>
+<sub>iOS · 澳洲移民路径导航</sub></p>
+<p>面向中文用户，整理澳洲移民路径信息与准备规划。</p>
+<a href="https://apps.apple.com/cn/app/id6762067917">App Store ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://apps.apple.com/cn/app/id6760447216"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/b2/4f/4fb24fdd-2375-ce1e-fdef-2a0e4ebd8a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="AfterSip 应用图标"></a>
-<h3>AfterSip</h3>
-<p><sub>iOS · 摄入记录与代谢时程</sub></p>
-<p>记录咖啡因与酒精摄入，围绕目标就寝时间提供代谢时程估算。</p>
-<a href="https://apps.apple.com/cn/app/id6760447216">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6760985455"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/25/a0/8225a0a1-1739-3f35-e10a-71f69e7b5a9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="MinaWay 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6760985455">MinaWay</a></strong><br>
+<sub>iOS · 朝觐规划助手</sub></p>
+<p>整合预算估算、准备清单、指南与提醒，让出发前的准备更有条理。</p>
+<a href="https://apps.apple.com/cn/app/id6760985455">App Store ↗</a>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://apps.apple.com/cn/app/id6762235259"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/a5/6b/51a56b6d-6c07-5565-001e-96f633b29687/icon.png/512x512bb.png" width="64" height="64" alt="Liquun 应用图标"></a>
-<h3>Liquun</h3>
-<p><sub>macOS · 个人科研笔记本</sub></p>
-<p>连接课题、实验、原始证据、文献与任务的本地优先科研工作台。</p>
-<a href="https://apps.apple.com/cn/app/id6762235259">前往 App Store ↗</a>
+<a href="https://apps.apple.com/cn/app/id6760447216"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/b2/4f/4fb24fdd-2375-ce1e-fdef-2a0e4ebd8a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="48" height="48" alt="AfterSip 应用图标"></a>
+<p><strong><a href="https://apps.apple.com/cn/app/id6760447216">AfterSip</a></strong><br>
+<sub>iOS · 摄入记录与代谢时程</sub></p>
+<p>记录咖啡因与酒精摄入，围绕目标就寝时间提供代谢时程估算。</p>
+<a href="https://apps.apple.com/cn/app/id6760447216">App Store ↗</a>
 </td>
 </tr>
 </table>
+
+<sub>商店链接指向中国区；可用地区以 App Store 为准。</sub>
 
 ## 科研工具
 
 从分子生物学实用工具，到公开证据探索与研究记录。
 
-| 项目 | 用途 | 入口 |
-| :--- | :--- | :--- |
-| **PrimerCat** | 可溯源的 qPCR 引物设计、CRISPR gRNA 设计、BLAST 与序列工具。 | [在线使用](https://primercat.tech) · [代码](https://github.com/soap628/primercat) |
-| **CHD Gene Variant & HPO Explorer** | 交互探索 CHD1–CHD9 基因家族的 ClinVar 变异与 HPO 表型。 | [代码](https://github.com/soap628/CHDB) |
-| **MED12 Variant Analysis** | 连接 AlphaMissense、AlphaFold、ClinVar 与多组学证据的研究流程。 | [代码](https://github.com/soap628/MED12-) |
-| **Liquun · Web 工作台** | 公开的 Web 项目代码，用于本地优先的课题、实验、文献与日程管理。 | [代码](https://github.com/soap628/liquun) |
-| **CHD7 ClinVar Explorer** | 较早的 Python 项目，用于探索 CHD7 变异及蛋白结构域信息。 | [代码](https://github.com/soap628/chd7clinvar) |
+| 项目 | 用途 |
+| :--- | :--- |
+| [**PrimerCat**](https://github.com/soap628/primercat) · [在线使用 ↗](https://primercat.tech) | 可溯源的 qPCR 引物设计、CRISPR gRNA 设计、BLAST 与序列工具。 |
+| [**CHD Explorer**](https://github.com/soap628/CHDB) | 交互探索 CHD1–CHD9 基因家族的 ClinVar 变异与 HPO 表型。 |
+| [**MED12**](https://github.com/soap628/MED12-) | 连接 AlphaMissense、AlphaFold、ClinVar 与多组学证据的研究流程。 |
+| [**Liquun · Web**](https://github.com/soap628/liquun) | 公开的 Web 项目代码，用于本地优先的课题、实验、文献与日程管理。 |
+| [**CHD7 Explorer**](https://github.com/soap628/chd7clinvar) | 较早的 Python 项目，用于探索 CHD7 变异及蛋白结构域信息。 |
 
 ## 浏览器扩展
 
-| 项目 | 用途 | 入口 |
-| :--- | :--- | :--- |
-| **Hyrax** | PubMed 文献助手，提供期刊指标、风险提示、文章筛选、摘要速览与 PMID 导出。 | [代码与安装说明](https://github.com/soap628/hyrax) |
-| **X Focus** | 实验性的本地优先 Edge 扩展，用 RPG 任务卡记录发帖与回复目标，并提供本机备份。 | [代码与界面预览](https://github.com/soap628/x-focus-extension) |
+| 项目 | 用途 |
+| :--- | :--- |
+| [**Hyrax**](https://github.com/soap628/hyrax) | PubMed 文献助手，提供期刊指标、风险提示、文章筛选、摘要速览与 PMID 导出。 |
+| [**X Focus**](https://github.com/soap628/x-focus-extension) | 实验性的本地优先 Edge 扩展，用 RPG 任务卡记录发帖与回复目标，并提供本机备份。 |
 
 ## 更多 iOS / SwiftUI 项目
 
-公开的代码项目与功能探索。有代码仓库不等于已在 App Store 上架；此处与上方已核验的商店产品分开展示。
+公开的代码项目与功能探索，与上方已上架的 App 分开展示。
 
 | 项目 | 方向 |
 | :--- | :--- |
