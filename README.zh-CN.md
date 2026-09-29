@@ -19,72 +19,76 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6757695876"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/a1/5d/c9a15dbc-e54c-fbca-868e-e378d142381a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="64" height="64" alt="Orion 应用图标"></a>
 <h3>Orion</h3>
 <p><sub>iOS · Apple Watch</sub></p>
 <p>面向 ADHD 用户的温和伙伴，接住想法、拆解任务，帮助迈出下一小步。</p>
 <a href="https://apps.apple.com/cn/app/id6757695876">前往 App Store ↗</a>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6811863083"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ed/aa/dcedaa36-1b47-4518-8500-74f8337de3c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="Harrier 应用图标"></a>
 <h3>Harrier</h3>
 <p><sub>iOS · 基因背景调查</sub></p>
 <p>围绕人类与小鼠基因，连接公开证据、相关文献与研究笔记。</p>
 <a href="https://apps.apple.com/cn/app/id6811863083">前往 App Store ↗</a>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6790659905"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/5d/a8/995da861-1dd4-3fc3-6ed3-cdee72d25dca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="Mice 应用图标"></a>
 <h3>Mice</h3>
 <p><sub>iOS · 实验动物管理</sub></p>
 <p>本地优先管理动物档案、笼位、繁育、实验与待办事项。</p>
 <a href="https://apps.apple.com/cn/app/id6790659905">前往 App Store ↗</a>
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6763167152"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/43/3c/04433c11-4b9d-6129-96f2-d5c2d52080a6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="LabSlate 应用图标"></a>
 <h3>LabSlate</h3>
 <p><sub>iOS · 实验台计算助手</sub></p>
 <p>涵盖分子量、配液、稀释与实验准备流程，把常用计算放在手边。</p>
 <a href="https://apps.apple.com/cn/app/id6763167152">前往 App Store ↗</a>
 </td>
-<td valign="top">
-<a href="https://apps.apple.com/cn/app/id6762235259"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/a5/6b/51a56b6d-6c07-5565-001e-96f633b29687/icon.png/512x512bb.png" width="64" height="64" alt="Liquun 应用图标"></a>
-<h3>Liquun</h3>
-<p><sub>macOS · 个人科研笔记本</sub></p>
-<p>连接课题、实验、原始证据、文献与任务的本地优先科研工作台。</p>
-<a href="https://apps.apple.com/cn/app/id6762235259">前往 App Store ↗</a>
-</td>
-<td valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6790718756"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/68/ce/4868cee4-1655-1f5f-6e7a-8a60ad4485b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="IEP Parent Binder 应用图标"></a>
 <h3>IEP Parent Binder</h3>
 <p><sub>iOS · 家庭教育记录</sub></p>
 <p>帮助家长整理个别化教育计划的会议、目标、服务记录与跟进事项。</p>
 <a href="https://apps.apple.com/cn/app/id6790718756">前往 App Store ↗</a>
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6762067917"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/2d/34/b92d342f-b5d9-cf2f-c2c9-4fdceeffc577/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="润澳应用图标"></a>
 <h3>润澳</h3>
 <p><sub>iOS · 澳洲移民路径导航</sub></p>
 <p>面向中文用户，整理澳洲移民路径信息与准备规划。</p>
 <a href="https://apps.apple.com/cn/app/id6762067917">前往 App Store ↗</a>
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6760985455"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/25/a0/8225a0a1-1739-3f35-e10a-71f69e7b5a9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="MinaWay 应用图标"></a>
 <h3>MinaWay</h3>
 <p><sub>iOS · 朝觐规划助手</sub></p>
 <p>整合预算估算、准备清单、指南与提醒，让出发前的准备更有条理。</p>
 <a href="https://apps.apple.com/cn/app/id6760985455">前往 App Store ↗</a>
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 <a href="https://apps.apple.com/cn/app/id6760447216"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/b2/4f/4fb24fdd-2375-ce1e-fdef-2a0e4ebd8a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="64" height="64" alt="AfterSip 应用图标"></a>
 <h3>AfterSip</h3>
 <p><sub>iOS · 摄入记录与代谢时程</sub></p>
 <p>记录咖啡因与酒精摄入，围绕目标就寝时间提供代谢时程估算。</p>
 <a href="https://apps.apple.com/cn/app/id6760447216">前往 App Store ↗</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://apps.apple.com/cn/app/id6762235259"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/a5/6b/51a56b6d-6c07-5565-001e-96f633b29687/icon.png/512x512bb.png" width="64" height="64" alt="Liquun 应用图标"></a>
+<h3>Liquun</h3>
+<p><sub>macOS · 个人科研笔记本</sub></p>
+<p>连接课题、实验、原始证据、文献与任务的本地优先科研工作台。</p>
+<a href="https://apps.apple.com/cn/app/id6762235259">前往 App Store ↗</a>
 </td>
 </tr>
 </table>
