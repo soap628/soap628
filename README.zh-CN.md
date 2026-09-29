@@ -1,8 +1,8 @@
 <p align="right"><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
-## 科研背景的独立开发者
+## 你好，我是 soap
 
-把科研与日常生活里的问题，做成实用的软件。
+科研背景的独立开发者，把科研与日常生活里的问题做成实用的软件。
 
 生物化学与分子生物学硕士（**MS**） · 博士阶段科研经历 · QS Top 20 高校背景
 
@@ -46,45 +46,45 @@
 
 从分子生物学实用工具，到公开证据探索与研究记录。
 
-- [**PrimerCat**](https://github.com/soap628/primercat) · [在线使用](https://primercat.tech) — 可溯源的 qPCR 引物设计、CRISPR gRNA 设计、BLAST 与序列工具。
+- 🧬 [**PrimerCat**](https://github.com/soap628/primercat) · [在线使用](https://primercat.tech) — 可溯源的 qPCR 引物设计、CRISPR gRNA 设计、BLAST 与序列工具。
 
-- [**CHD Explorer**](https://github.com/soap628/CHDB) — 交互探索 CHD1–CHD9 基因家族的 ClinVar 变异与 HPO 表型。
+- 🔬 [**CHD Explorer**](https://github.com/soap628/CHDB) — 交互探索 CHD1–CHD9 基因家族的 ClinVar 变异与 HPO 表型。
 
-- [**MED12**](https://github.com/soap628/MED12-) — 连接 AlphaMissense、AlphaFold、ClinVar 与多组学证据的研究流程。
+- 🧪 [**MED12**](https://github.com/soap628/MED12-) — 连接 AlphaMissense、AlphaFold、ClinVar 与多组学证据的研究流程。
 
-- [**Liquun · Web**](https://github.com/soap628/liquun) — 公开的 Web 项目代码，用于本地优先的课题、实验、文献与日程管理。
+- 📓 [**Liquun · Web**](https://github.com/soap628/liquun) — 公开的 Web 项目代码，用于本地优先的课题、实验、文献与日程管理。
 
-- [**CHD7 Explorer**](https://github.com/soap628/chd7clinvar) — 较早的 Python 项目，用于探索 CHD7 变异及蛋白结构域信息。
+- 🔎 [**CHD7 Explorer**](https://github.com/soap628/chd7clinvar) — 较早的 Python 项目，用于探索 CHD7 变异及蛋白结构域信息。
 
 ## 浏览器扩展
 
-- [**Hyrax**](https://github.com/soap628/hyrax) — PubMed 文献助手，提供期刊指标、风险提示、文章筛选、摘要速览与 PMID 导出。
+- 📚 [**Hyrax**](https://github.com/soap628/hyrax) — PubMed 文献助手，提供期刊指标、风险提示、文章筛选、摘要速览与 PMID 导出。
 
-- [**X Focus**](https://github.com/soap628/x-focus-extension) — 实验性的本地优先 Edge 扩展，用 RPG 任务卡记录发帖与回复目标，并提供本机备份。
+- 🎯 [**X Focus**](https://github.com/soap628/x-focus-extension) — 实验性的本地优先 Edge 扩展，用 RPG 任务卡记录发帖与回复目标，并提供本机备份。
 
 ## 更多 iOS / SwiftUI 项目
 
 公开的代码项目与功能探索，与上方已上架的 App 分开展示。
 
-- [**VisaChecker**](https://github.com/soap628/VisaChecker) — 签证要求查询与申请材料准备。
+- 🛂 [**VisaChecker**](https://github.com/soap628/VisaChecker) — 签证要求查询与申请材料准备。
 
-- [**FundCalc**](https://github.com/soap628/FundCalc) — 科研经费预算、年度分配与方案导出。
+- 🧮 [**FundCalc**](https://github.com/soap628/FundCalc) — 科研经费预算、年度分配与方案导出。
 
-- [**FertilityHub**](https://github.com/soap628/FertilityHub) — 生育力保存诊所比较与费用规划。
+- 🌱 [**FertilityHub**](https://github.com/soap628/FertilityHub) — 生育力保存诊所比较与费用规划。
 
-- [**CreatorHub**](https://github.com/soap628/CreatorHub) — 内容创作者工具与业务管理界面探索。
+- 🎬 [**CreatorHub**](https://github.com/soap628/CreatorHub) — 内容创作者工具与业务管理界面探索。
 
-- [**HajjPlanner**](https://github.com/soap628/HajjPlanner) — Hajj / Umrah 朝觐预算、准备清单与行程规划。
+- 🕋 [**HajjPlanner**](https://github.com/soap628/HajjPlanner) — Hajj / Umrah 朝觐预算、准备清单与行程规划。
 
-- [**OffshoreHub**](https://github.com/soap628/OffshoreHub) — 公司注册地区的信息比较与成本估算。
+- 🌍 [**OffshoreHub**](https://github.com/soap628/OffshoreHub) — 公司注册地区的信息比较与成本估算。
 
-- [**SurrogacyHub**](https://github.com/soap628/SurrogacyHub) — 比较相关国家、机构与费用的代孕信息项目。
+- 🤝 [**SurrogacyHub**](https://github.com/soap628/SurrogacyHub) — 比较相关国家、机构与费用的代孕信息项目。
 
 ## 其他作品
 
-- [**FamilyMemory**](https://github.com/soap628/familyminiprogram) — 面向家庭与社群的私密分享微信小程序，包含群组、验证与内容管理。
-- [**Readlist**](https://github.com/soap628/readlist) — 围绕文献与数据收集的早期 Python 实验。
-- [**Soap628**](https://soap628.com) — 我的独立网站，分享工具、资源、文章与 [Soap 日报](https://soap628.com/daily/)。
+- 🏡 [**FamilyMemory**](https://github.com/soap628/familyminiprogram) — 面向家庭与社群的私密分享微信小程序，包含群组、验证与内容管理。
+- 📖 [**Readlist**](https://github.com/soap628/readlist) — 围绕文献与数据收集的早期 Python 实验。
+- 🌐 [**Soap628**](https://soap628.com) — 我的独立网站，分享工具、资源、文章与 [Soap 日报](https://soap628.com/daily/)。
 
 ## 科研背景
 

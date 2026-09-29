@@ -1,8 +1,8 @@
 <p align="right"><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
 
-## Researcher & independent developer
+## Hi, I'm soap
 
-Building useful software for research and everyday life.
+Researcher & independent developer, building useful software for research and everyday life.
 
 **MS** in Biochemistry & Molecular Biology · Doctoral research experience<br>
 Academic background at a QS Top 20 university
@@ -47,45 +47,45 @@ Released on iOS and macOS. Select a name or icon to view it on the App Store.
 
 From molecular-biology utilities to evidence exploration and research records.
 
-- [**PrimerCat**](https://github.com/soap628/primercat) · [Live demo](https://primercat.tech) — Auditable qPCR primer design, CRISPR gRNA design, BLAST, and sequence utilities.
+- 🧬 [**PrimerCat**](https://github.com/soap628/primercat) · [Live demo](https://primercat.tech) — Auditable qPCR primer design, CRISPR gRNA design, BLAST, and sequence utilities.
 
-- [**CHD Explorer**](https://github.com/soap628/CHDB) — Interactive ClinVar variant and HPO phenotype exploration across CHD1–CHD9.
+- 🔬 [**CHD Explorer**](https://github.com/soap628/CHDB) — Interactive ClinVar variant and HPO phenotype exploration across CHD1–CHD9.
 
-- [**MED12**](https://github.com/soap628/MED12-) — A research workflow connecting AlphaMissense, AlphaFold, ClinVar, and multi-omics evidence.
+- 🧪 [**MED12**](https://github.com/soap628/MED12-) — A research workflow connecting AlphaMissense, AlphaFold, ClinVar, and multi-omics evidence.
 
-- [**Liquun · Web**](https://github.com/soap628/liquun) — Public web-project code for local-first project, experiment, literature, and schedule management.
+- 📓 [**Liquun · Web**](https://github.com/soap628/liquun) — Public web-project code for local-first project, experiment, literature, and schedule management.
 
-- [**CHD7 Explorer**](https://github.com/soap628/chd7clinvar) — An earlier Python project for exploring CHD7 variants and protein-domain context.
+- 🔎 [**CHD7 Explorer**](https://github.com/soap628/chd7clinvar) — An earlier Python project for exploring CHD7 variants and protein-domain context.
 
 ## Browser extensions
 
-- [**Hyrax**](https://github.com/soap628/hyrax) — A PubMed companion for journal metrics, risk signals, article filtering, quick abstracts, and PMID export.
+- 📚 [**Hyrax**](https://github.com/soap628/hyrax) — A PubMed companion for journal metrics, risk signals, article filtering, quick abstracts, and PMID export.
 
-- [**X Focus**](https://github.com/soap628/x-focus-extension) — An experimental, local-first Edge extension with an RPG-style task card, posting/reply goals, and local backups.
+- 🎯 [**X Focus**](https://github.com/soap628/x-focus-extension) — An experimental, local-first Edge extension with an RPG-style task card, posting/reply goals, and local backups.
 
 ## More iOS / SwiftUI projects
 
 Public code projects and explorations, separate from the released apps above.
 
-- [**VisaChecker**](https://github.com/soap628/VisaChecker) — Visa requirements and document-preparation workflows.
+- 🛂 [**VisaChecker**](https://github.com/soap628/VisaChecker) — Visa requirements and document-preparation workflows.
 
-- [**FundCalc**](https://github.com/soap628/FundCalc) — Research-grant budgeting, annual allocations, and plan export.
+- 🧮 [**FundCalc**](https://github.com/soap628/FundCalc) — Research-grant budgeting, annual allocations, and plan export.
 
-- [**FertilityHub**](https://github.com/soap628/FertilityHub) — Fertility-preservation clinic comparison and cost planning.
+- 🌱 [**FertilityHub**](https://github.com/soap628/FertilityHub) — Fertility-preservation clinic comparison and cost planning.
 
-- [**CreatorHub**](https://github.com/soap628/CreatorHub) — Creator-tool concepts and a business-dashboard interface.
+- 🎬 [**CreatorHub**](https://github.com/soap628/CreatorHub) — Creator-tool concepts and a business-dashboard interface.
 
-- [**HajjPlanner**](https://github.com/soap628/HajjPlanner) — Hajj / Umrah budgets, preparation checklists, and itineraries.
+- 🕋 [**HajjPlanner**](https://github.com/soap628/HajjPlanner) — Hajj / Umrah budgets, preparation checklists, and itineraries.
 
-- [**OffshoreHub**](https://github.com/soap628/OffshoreHub) — Jurisdiction information and cost comparisons for company formation.
+- 🌍 [**OffshoreHub**](https://github.com/soap628/OffshoreHub) — Jurisdiction information and cost comparisons for company formation.
 
-- [**SurrogacyHub**](https://github.com/soap628/SurrogacyHub) — An informational project comparing countries, providers, and costs.
+- 🤝 [**SurrogacyHub**](https://github.com/soap628/SurrogacyHub) — An informational project comparing countries, providers, and costs.
 
 ## Other work
 
-- [**FamilyMemory**](https://github.com/soap628/familyminiprogram) — a WeChat Mini Program for private family and community sharing, with groups, verification, and moderation.
-- [**Readlist**](https://github.com/soap628/readlist) — earlier Python experiments around literature and data collection.
-- [**Soap628**](https://soap628.com) — my independent webspace for tools, resources, writing, and the [Soap Daily](https://soap628.com/daily/).
+- 🏡 [**FamilyMemory**](https://github.com/soap628/familyminiprogram) — a WeChat Mini Program for private family and community sharing, with groups, verification, and moderation.
+- 📖 [**Readlist**](https://github.com/soap628/readlist) — earlier Python experiments around literature and data collection.
+- 🌐 [**Soap628**](https://soap628.com) — my independent webspace for tools, resources, writing, and the [Soap Daily](https://soap628.com/daily/).
 
 ## Research background
 
