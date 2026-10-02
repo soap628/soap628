@@ -15,39 +15,39 @@ From keeping a lab organized to making everyday plans. Tap an app to explore it.
 <table>
 <tbody>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6811863083"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ed/aa/dcedaa36-1b47-4518-8500-74f8337de3c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="Harrier"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6811863083"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ed/aa/dcedaa36-1b47-4518-8500-74f8337de3c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="Harrier"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6811863083"><strong>Harrier</strong></a> &nbsp; <sub>iOS · Gene research</sub><br>Gene evidence, literature, and research notes for human and mouse biology.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6790659905"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/5d/a8/995da861-1dd4-3fc3-6ed3-cdee72d25dca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="Mice"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6790659905"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/5d/a8/995da861-1dd4-3fc3-6ed3-cdee72d25dca/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="Mice"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6790659905"><strong>Mice</strong></a> &nbsp; <sub>iOS · Lab animals</sub><br>Animal records, housing, breeding, and the daily work of running a lab.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6763167152"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/43/3c/04433c11-4b9d-6129-96f2-d5c2d52080a6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="LabSlate"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6763167152"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/43/3c/04433c11-4b9d-6129-96f2-d5c2d52080a6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="LabSlate"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6763167152"><strong>LabSlate</strong></a> &nbsp; <sub>iOS · Bench calculations</sub><br>Molecular weights, solution preparation, and dilutions, close at hand.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6762235259"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/a5/6b/51a56b6d-6c07-5565-001e-96f633b29687/icon.png/128x128bb.png" width="40" height="40" alt="Liquun"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6762235259"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/a5/6b/51a56b6d-6c07-5565-001e-96f633b29687/icon.png/128x128bb.png" width="40" height="40" alt="Liquun"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6762235259"><strong>Liquun</strong></a> &nbsp; <sub>macOS · Research notebook</sub><br>A local-first home for research projects, experiments, and literature.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6757695876"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/a1/5d/c9a15dbc-e54c-fbca-868e-e378d142381a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg" width="40" height="40" alt="Orion"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6757695876"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/a1/5d/c9a15dbc-e54c-fbca-868e-e378d142381a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg" width="40" height="40" alt="Orion"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6757695876"><strong>Orion</strong></a> &nbsp; <sub>iOS / Apple Watch · Focus</sub><br>An ADHD companion for capturing thoughts, breaking down tasks, and getting started.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6790718756"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/68/ce/4868cee4-1655-1f5f-6e7a-8a60ad4485b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="IEP Parent Binder"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6790718756"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/68/ce/4868cee4-1655-1f5f-6e7a-8a60ad4485b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="IEP Parent Binder"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6790718756"><strong>IEP Parent Binder</strong></a> &nbsp; <sub>iOS · Family organization</sub><br>Keep special-education meetings, goals, services, and follow-ups together.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6762067917"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/2d/34/b92d342f-b5d9-cf2f-c2c9-4fdceeffc577/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="润澳 · RunAo"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6762067917"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/2d/34/b92d342f-b5d9-cf2f-c2c9-4fdceeffc577/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="润澳 · RunAo"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6762067917"><strong>润澳 · RunAo</strong></a> &nbsp; <sub>iOS · Migration planning</sub><br>Australian migration pathways and preparation planning, in Chinese.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6760985455"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/25/a0/8225a0a1-1739-3f35-e10a-71f69e7b5a9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="MinaWay"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6760985455"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/25/a0/8225a0a1-1739-3f35-e10a-71f69e7b5a9f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="MinaWay"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6760985455"><strong>MinaWay</strong></a> &nbsp; <sub>iOS · Hajj preparation</sub><br>Budgets, checklists, guidance, and reminders for the journey ahead.</td>
 </tr>
 <tr>
-<td width="48" align="center"><a href="https://apps.apple.com/cn/app/id6760447216"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/b2/4f/4fb24fdd-2375-ce1e-fdef-2a0e4ebd8a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="AfterSip"></a></td>
+<td width="72" align="center"><a href="https://apps.apple.com/cn/app/id6760447216"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/b2/4f/4fb24fdd-2375-ce1e-fdef-2a0e4ebd8a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/128x128bb.jpg" width="40" height="40" alt="AfterSip"></a></td>
 <td><a href="https://apps.apple.com/cn/app/id6760447216"><strong>AfterSip</strong></a> &nbsp; <sub>iOS · Intake tracking</sub><br>Caffeine and alcohol logs with bedtime-focused timing estimates.</td>
 </tr>
 </tbody>
