@@ -4,7 +4,7 @@
 
 **科研背景的独立开发者。** 为实验室、工作与日常生活，做一些实用的软件。
 
-生物化学与分子生物学硕士（MS） · 博士阶段科研经历<br><sub>QS Top 20 高校背景</sub>
+生物化学与分子生物学硕士与博士<br><sub>QS Top 20 高校背景</sub>
 
 [**个人网站**](https://soap628.com) &nbsp; / &nbsp; [**App Store**](https://apps.apple.com/cn/developer/id1867409591) &nbsp; / &nbsp; [**邮件联系**](mailto:soap628@proton.me)
 
