@@ -4,7 +4,7 @@
 
 **Researcher & independent developer.** I build apps for the lab, work, and everyday life.
 
-MS in Biochemistry & Molecular Biology · Doctoral research experience<br><sub>Academic background at a QS Top 20 university</sub>
+MS& PhD in Biochemistry & Molecular Biology <br><sub>Academic background at a QS Top 20 university</sub>
 
 [**Website**](https://soap628.com) &nbsp; / &nbsp; [**App Store**](https://apps.apple.com/cn/developer/id1867409591) &nbsp; / &nbsp; [**Email**](mailto:soap628@proton.me)
 
